@@ -1,0 +1,13 @@
+# Compiled executables
+*.exe
+analyze_qty
+
+# Generated and raw market data
+*.csv
+*.bin
+*.dec
+
+# Editor files
+.vscode/
+*.user
+*.suo

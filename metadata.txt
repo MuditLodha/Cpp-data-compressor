@@ -1,0 +1,3 @@
+symbol=4USDT
+ticksize=0.00001
+lotsize=1
